@@ -27,7 +27,7 @@ I'm a cybersecurity student passionate about Linux, networking, and vulnerabilit
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -54,7 +54,7 @@ I'm a cybersecurity student passionate about Linux, networking, and vulnerabilit
 
 #
 
-### 💻 Featured Repositories
+### Featured Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=i7griffin&repo=overthewire-bandit-writeup&theme=github_dark)](https://github.com/i7griffin/overthewire-bandit-writeup)
 
@@ -64,7 +64,7 @@ I'm a cybersecurity student passionate about Linux, networking, and vulnerabilit
 
 #
 
-### 📊 Stats
+### Stats
 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=i7griffin&show_icons=true&theme=github_dark)
 
