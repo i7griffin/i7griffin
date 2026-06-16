@@ -1,4 +1,4 @@
-# 🛡️ Maria Griffin Raj I
+# Maria Griffin Raj I
 
 **`Cybersecurity Student`**
 
